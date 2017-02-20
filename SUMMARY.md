@@ -1,8 +1,4 @@
-\#
-
-Summary
-
-
+# Summary
 
 \* \[Introduction\\(简介\\)\]\(README.md\)
 
@@ -23,6 +19,4 @@ Summary
 \* \[Troubleshooting\\(故障处理\\)\]\(troubleshooting.md\)
 
 \* \[Glossary\\(名词解释\\)\]\(glossary名词解释.md\)
-
-
 
